@@ -1,0 +1,10 @@
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Jonathan\Desktop\Calculadora-master\Calculadora\obj\Debug\Calculadora.pdb
